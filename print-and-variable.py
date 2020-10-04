@@ -21,9 +21,9 @@ print("Test Fail - Using + to concatenate different data-type like String and Nu
 # print("Test Fail - Using + to concatenate String and Number -->" + num)
 print("\n")
 
-print("Test Pass - Using , for Strings Concatenation -", objective, learningfrom)
+print("Test Pass - Use , for Strings Concatenation -", objective, learningfrom)
 print("\tNOTE: Space is automatically added between string concatenation when , is used")
-print("Test Pass - Using + for Strings Concatenation -" + objective + ' ' + learningfrom)
+print("Test Pass - Use + for Strings Concatenation -" + objective + ' ' + learningfrom)
 print("\tNOTE: Need to add Space for string concatenation when + is used")
 print("\n")
 
